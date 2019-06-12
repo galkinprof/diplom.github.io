@@ -1,0 +1,2 @@
+# diplom.github.io
+test
